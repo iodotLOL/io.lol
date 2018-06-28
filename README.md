@@ -5,4 +5,4 @@ io.LOL | Official Website | Free 3D Multiplayer Browser .io Game
 
 First Prototype Screenshot:
 
-![io.lol prototype screenshot]()
+![io.lol prototype screenshot](https://github.com/iodotLOL/io.lol/blob/master/io.lol.first.prototype.screenshot.png)
